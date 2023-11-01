@@ -15,7 +15,9 @@ npm install
 查看文档
 
 - 使用文档
+    [如何使用](./doc/use/README.md) 
 - 二次开发
+    [二次开发](./doc/dev/README.md)
 
 ## 交流 & 提问
 https://github.com/DZHdzh692817/FastCache/issues
