@@ -3,21 +3,22 @@
 
 ## 简介
 
-特色
+特色：简单~
 
 ## 安装下载
 
-npm run ...
+cd FastCache
+npm install
 
-## 快速使用
+## 如何快速使用
 
-简单接入文档
+查看文档
 
 - 使用文档
 - 二次开发
 
 ## 交流 & 提问
-https://xxxxx/issues
+https://github.com/DZHdzh692817/FastCache/issues
 
 ## 关于作者
 
