@@ -10,6 +10,10 @@
 cd FastCache
 npm install
 
+-下载地址
+
+https://github.com/DZHdzh692817/FastCache/tags
+
 ## 如何快速使用
 
 查看文档
